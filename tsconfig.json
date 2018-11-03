@@ -1,0 +1,16 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es2015",
+    "types": [
+      "@aspnet/signalr"
+    ]
+  },
+  "include": [
+    "wwwroot/js/*"
+  ]
+}
